@@ -1,0 +1,3 @@
+Sitemap: https://kingshuk.me/sitemap.xml
+User-agent: *
+Disallow: /cdn-cgi/
