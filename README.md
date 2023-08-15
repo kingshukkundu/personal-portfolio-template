@@ -1,4 +1,4 @@
-# Personal Portfolio V1.0
+# Personal Portfolio Template
 
 [![Site preview](/images/bg/site-preview.png)](https://kingshuk.cf)
 
