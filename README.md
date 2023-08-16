@@ -2,7 +2,7 @@
 
 [![Site preview](/images/bg/site-preview.png)](https://kingshuk.cf)
 
-This repository contains the code for my personal portfolio website built using HTML, CSS, and Javascript. This website showcases my skills, projects, and provides a way for others to learn more about me.
+This repository contains the code for a personal portfolio website built using HTML, CSS, and Javascript. This website showcases skills, projects, and provides a way for others to learn more about you.
 
 ## Table of Contents
 
@@ -21,10 +21,10 @@ You can see a live version of the portfolio website at [https://kingshuk.cf](htt
 
 ## Features
 
-- **About Me:** An introduction to who I am, my background, and interests.
-- **Portfolio:** A showcase of my projects with descriptions and links.
-- **Resume:** A downloadable PDF version of my resume.
-- **Contact:** A way for visitors to get in touch with me.
+- **About Me:** An introduction to who you am, my background, and interests.
+- **Portfolio:** A showcase of projects with descriptions and links.
+- **Resume:** A downloadable PDF version of resume.
+- **Contact:** A way for visitors to get in touch with you.
 
 ## Technologies Used
 
@@ -36,7 +36,7 @@ You can see a live version of the portfolio website at [https://kingshuk.cf](htt
 
 1. **Clone the Repository:** 
    ```
-   git clone https://github.com/kingshukkundu/personal-portfolio-old
+   git clone https://github.com/kingshukkundu/personal-portfolio-template
    ```
 
 2. **Navigate to the Project Folder:**
@@ -56,7 +56,7 @@ You can see a live version of the portfolio website at [https://kingshuk.cf](htt
    - Navigate to the \#page4 in index.html file and add new project sections following the existing structure.
 
 3. **Styling:**
-   - Customize the styling by modifying the CSS in the `style.css` file to match your personal preferences.
+   - Customize the styling by modifying the CSS in the `.css` file to match your personal preferences.
 
 ## Customization
 
