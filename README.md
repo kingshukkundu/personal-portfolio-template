@@ -4,7 +4,7 @@
 
 This repository contains the code for a personal portfolio website built using HTML, CSS, and Javascript. This website showcases skills, projects, and provides a way for others to learn more about you. 
 
-## Table of Contents
+## 🔖 Table of Contents
 
 - [Demo](#demo)
 - [Features](#features)
@@ -15,24 +15,24 @@ This repository contains the code for a personal portfolio website built using H
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
+## 💾 Demo 
 
 You can see a live version of the portfolio website at [https://kingshuk.cf](https://kingshuk.cf)
 
-## Features
+## ⭐️ Features 
 
 - **About Me:** An introduction to who you am, my background, and interests.
 - **Portfolio:** A showcase of projects with descriptions and links.
 - **Resume:** A downloadable PDF version of resume.
 - **Contact:** A way for visitors to get in touch with you.
 
-## Technologies Used
+## 💻 Technologies Used 
 
 - HTML5: Structuring the content of the website.
 - CSS3: Styling and layout of the website.
 - JavaScript: Adding interactivity and dynamic elements.
 
-## Setup
+## ⚙️ Setup
 
 1. **Clone the Repository:** 
    ```
@@ -47,7 +47,7 @@ You can see a live version of the portfolio website at [https://kingshuk.cf](htt
 3. **Open `index.html` in your Browser:**
    Simply double-click on the `index.html` file to open it in your default web browser.
 
-## Usage
+## 🔧 Usage 
 
 1. **Edit Content:**
    - Open the `index.html` file and modify the content within the appropriate sections, such as the "About Me," "Portfolio," and "Contact" sections.
@@ -58,11 +58,11 @@ You can see a live version of the portfolio website at [https://kingshuk.cf](htt
 3. **Styling:**
    - Customize the styling by modifying the CSS in the `.css` file to match your personal preferences.
 
-## Customization
+## 🪴 Customization 
 
 Feel free to customize this portfolio website to make it your own! You can change colors, fonts, add new sections, or modify the layout to suit your personal brand.
 
-## Contributing
+## 🪢 Contributing 
 
 Contributions are welcome! If you find a bug or want to improve the website, feel free to create an issue or submit a pull request.
 
@@ -72,7 +72,7 @@ Contributions are welcome! If you find a bug or want to improve the website, fee
 4. Push the changes to your fork: `git push origin feature/your-feature-name`.
 5. Submit a pull request explaining your changes.
 
-## License
+## 📝 License 
 
 This project is licensed under the [MIT License](LICENSE).
 
