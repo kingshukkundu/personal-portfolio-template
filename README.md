@@ -19,7 +19,6 @@
 
 [![Site preview](/images/bg/site-preview.png)](https://kingshuk.cf)
 
-A simple, minimal, fast and responsive personal portfolio website built using HTML, CSS, and Javascript. This website showcases skills, projects, and provides a way for others to learn more about you. 
 
 ## 🔖 Table of Contents
 
