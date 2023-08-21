@@ -1,8 +1,25 @@
-# Personal Portfolio Template [![GitHub](https://img.shields.io/github/license/kingshukkundu/personal-portfolio-template?color=4caf50)](https://github.com/kingshukkundu/personal-portfolio-template/LICENSE.md?color=9cf) ![GitHub stars](https://img.shields.io/github/stars/kingshukkundu/personal-portfolio-template?color=4caf50) ![GitHub forks](https://img.shields.io/github/forks/kingshukkundu/personal-portfolio-template?color=4caf50)
+<p align="center">
+  <a href="/apple-touch-icon-72x72.png">
+    <img width="60" height="60" src="/apple-touch-icon-72x72.png" alt="Logo" width="200" />
+  </a>
+</p>
+
+<p align="center">
+  <h1 align="center"> Personal Portfolio Template </h1>
+  <p align="center">
+    A simple, minimal, fast and responsive personal portfolio website built using HTML, CSS, and Javascript. This website showcases skills, projects, and provides a way for others to learn more about you. 
+   <br><br>
+     <img alt = license src="https://img.shields.io/github/license/kingshukkundu/personal-portfolio-template?color=4caf50">
+     <img alt = stars src="https://img.shields.io/github/stars/kingshukkundu/personal-portfolio-template?color=4caf50"> 
+     <img alt = forks src="https://img.shields.io/github/forks/kingshukkundu/personal-portfolio-template?color=4caf50">
+  </p>
+  </p>
+  <br>
+  
 
 [![Site preview](/images/bg/site-preview.png)](https://kingshuk.cf)
 
-This repository contains the code for a personal portfolio website built using HTML, CSS, and Javascript. This website showcases skills, projects, and provides a way for others to learn more about you. 
+A simple, minimal, fast and responsive personal portfolio website built using HTML, CSS, and Javascript. This website showcases skills, projects, and provides a way for others to learn more about you. 
 
 ## 🔖 Table of Contents
 
