@@ -1,8 +1,8 @@
-# Personal Portfolio Template
+# Personal Portfolio Template [![GitHub](https://img.shields.io/github/license/kingshukkundu/personal-portfolio-template?color=4caf50)](https://github.com/kingshukkundu/personal-portfolio-template/LICENSE.md?color=9cf) ![GitHub stars](https://img.shields.io/github/stars/kingshukkundu/personal-portfolio-template?color=4caf50) ![GitHub forks](https://img.shields.io/github/forks/kingshukkundu/personal-portfolio-template?color=4caf50)
 
 [![Site preview](/images/bg/site-preview.png)](https://kingshuk.cf)
 
-This repository contains the code for a personal portfolio website built using HTML, CSS, and Javascript. This website showcases skills, projects, and provides a way for others to learn more about you.
+This repository contains the code for a personal portfolio website built using HTML, CSS, and Javascript. This website showcases skills, projects, and provides a way for others to learn more about you. 
 
 ## Table of Contents
 
