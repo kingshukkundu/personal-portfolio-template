@@ -33,7 +33,7 @@
 
 ## 💾 Demo 
 
-You can see a live version of the portfolio website at [https://kingshuk.cf](https://kingshuk.cf)
+You can see a live version of the portfolio website at [https://kingshuk.cf](https://kingshuk.free.nf)
 
 ## ⭐️ Features 
 
